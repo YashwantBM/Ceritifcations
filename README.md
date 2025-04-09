@@ -4,9 +4,7 @@ This repository showcases the certifications I’ve earned in the field of Big D
 
 ---
 
-## ✅ Big Data on AWS Cloud - EMR | [Certificate](https://github.com/YashwantBM/Certifications/raw/main/AWS-EMR.pdf)
-
-
+## ✅ Big Data on AWS Cloud - EMR | [Certificate](https://github.com/YashwantBM/Certifcations/raw/main/AWS-EMR.pdf)
 - 🏢 **Issued by**: TrendyTech
 - 📅 **Date**: April 09, 2025
 - 🧰 **Focus**: Hands-on implementation of Big Data workloads using Amazon EMR (Elastic MapReduce), understanding cluster setup, scaling, and optimization.
