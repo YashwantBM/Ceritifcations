@@ -16,4 +16,10 @@ This repository showcases the certifications I’ve earned in the field of Big D
 - 🧰 **Focus**: Data querying using Amazon Athena, working with EC2 instances for Big Data use cases, and integrating various AWS services for scalable data processing.
 - 🆔 **Certificate ID**: edepweek201009
 
+## ✅ Big Data on AWS Cloud - Redshift, Lambda & S3 | [Certificate](https://raw.githubusercontent.com/YashwantBM/Certifcations/main/AWS-Redshift-Lambda-S3.pdf)
+- 🏢 **Issued by**: TrendyTech  
+- 📅 **Date**: April 09, 2025  
+- 🧰 **Focus**: Implementing serverless data pipelines using AWS Lambda and S3, and analyzing data using Redshift. Covered event-driven architectures and warehouse integration.  
+- 🆔 **Certificate ID**: edepweek241003
+
 ---
