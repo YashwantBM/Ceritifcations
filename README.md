@@ -4,7 +4,8 @@ This repository showcases the certifications I’ve earned in the field of Big D
 
 ---
 
-## ✅ Big Data on AWS Cloud - EMR | ![image](https://github.com/user-attachments/assets/d6e6176c-7e87-4d90-a707-c00b02883fa1)
+## ✅ Big Data on AWS Cloud - EMR | [Certificate](https://github.com/YashwantBM/Certifications/raw/main/AWS-EMR.pdf)
+
 
 - 🏢 **Issued by**: TrendyTech
 - 📅 **Date**: April 09, 2025
