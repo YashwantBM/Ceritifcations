@@ -1,8 +1,13 @@
 # 🎓 Certifications
 
 This repository showcases the certifications I’ve earned in the field of Big Data and AWS Cloud technologies. These credentials reflect my continuous learning and commitment to mastering cloud-based data engineering tools and frameworks.
-
 ---
+
+## ✅ Cloud Big Data Engineer – Elite Masters Program | [Certificate](https://github.com/YashwantBM/Certifications/blob/main/Cloud%20Data%20Engineer.pdf)
+- 🏢 **Issued by**: TrendyTech Insights  
+- 📅 **Date**: April 10, 2025  
+- 🧰 **Focus**: 5-month industry-focused program covering end-to-end Cloud Data Engineering using AWS, Spark, Hadoop, ETL, and data pipeline automation.  
+- 🆔 **Certificate ID**: TTSMEDE202400225
 
 ## ✅ Big Data on AWS Cloud - EMR | [Certificate](https://github.com/YashwantBM/Certifications/blob/main/AWS-EMR.pdf)
 - 🏢 **Issued by**: TrendyTech
